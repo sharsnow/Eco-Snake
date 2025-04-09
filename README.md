@@ -49,7 +49,7 @@ Eco-Snake 運用貪食蛇經典操作機制，設計關卡讓學習者於城市�
 - 客製化功能：可更換貪食蛇造型與外觀。
 - 獎章系統：激勵玩家蒐集與重複遊玩。  
 ![badgeSystem](https://github.com/sharsnow/Eco-Snake/blob/main/badgeSystem.png)  
-![selectSnake](https://github.com/sharsnow/Eco-Snake/blob/main/selectSnack.png)  
+![selectSnake](https://github.com/sharsnow/Eco-Snake/blob/main/selectSnake.png)  
 ---
 
 ## 關卡設計
