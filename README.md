@@ -6,7 +6,7 @@
 - [遊戲特色](#遊戲特色)
 - [關卡設計](#關卡設計)
 - [網頁demo](#網頁demo)
-- [電腦Window PC完整版](#電腦Window PC完整版)
+- [電腦WindowPC完整版](#電腦WindowPC完整版)
 ## 系統架構與實作
 
 ### 檔案內容
@@ -15,7 +15,7 @@ AttachFiles 內含有zip檔可直接下載遊玩
 
 ### 系統簡介
 
-本系統名為 **Eco-Snake**，是一款透過遊戲化學習方式進行環境教育的數位學習平台。靈感源自經典貪食蛇遊戲，並在原有玩法上進行大幅度改編，加入環保主題。玩家在不同的場景中操作貪食蛇收集垃圾，學習垃圾分類、回收知識及環境保護觀念。
+本系統名為 **Eco-Snake**，是一款透過遊戲化學習方式進行環境教育的數位學習平台。靈感源自經典貪食蛇遊戲，並在原有玩法上進行大幅度改編，加入環保主題。玩家在不同的場景中操作貪食蛇收集垃圾，學習垃圾分類、回收知識及環境保護觀念。  
 ![play](AttachFiles/img/play.png)
 
 ### 系統架構
@@ -47,9 +47,9 @@ Eco-Snake 運用貪食蛇經典操作機制，設計關卡讓學習者於城市�
 - 即時回饋機制：正確分類加分、錯誤扣分。
 - 資訊查詢功能：可查詢垃圾分類資訊。
 - 客製化功能：可更換貪食蛇造型與外觀。
-- 獎章系統：激勵玩家蒐集與重複遊玩。
-![badgeSystem](https://github.com/sharsnow/Eco-Snake/blob/main/badgeSystem.png)
-![selectSnake](https://github.com/sharsnow/Eco-Snake/blob/main/selectSnack.png)
+- 獎章系統：激勵玩家蒐集與重複遊玩。  
+![badgeSystem](https://github.com/sharsnow/Eco-Snake/blob/main/badgeSystem.png)  
+![selectSnake](https://github.com/sharsnow/Eco-Snake/blob/main/selectSnack.png)  
 ---
 
 ## 關卡設計
@@ -58,15 +58,15 @@ Eco-Snake 運用貪食蛇經典操作機制，設計關卡讓學習者於城市�
 - 收集**可回收物品**可加分並使蛇身變長。
 - 收集**不可回收物品**會扣分並使蛇身變短。
 - 海灘關卡加入**上下浮動垃圾**設計。
-- 工廠關卡新增**煙霧障礙物**，若碰觸將結束遊戲。
-![SpecialPlay](https://github.com/sharsnow/Eco-Snake/blob/main/SpecialGamePlay-1.png)
-![SpecialPlay](https://github.com/sharsnow/Eco-Snake/blob/main/SpecialGamePlay-2.png)
+- 工廠關卡新增**煙霧障礙物**，若碰觸將結束遊戲。  
+![SpecialPlay](https://github.com/sharsnow/Eco-Snake/blob/main/SpecialGamePlay-1.png)  
+![SpecialPlay](https://github.com/sharsnow/Eco-Snake/blob/main/SpecialGamePlay-2.png)  
 
 ###  網頁版demo
 - link
 https://eco-snake.vercel.app/
 
-## 電腦Window PC完整版
+## 電腦WindowPC完整版
 - link
 https://drive.google.com/file/d/1kx2TjZPnvDombMUjUlY7eLfW9kGWxdIz/view?usp=sharing
 
